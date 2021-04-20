@@ -1,0 +1,41 @@
+﻿  ParallelAlgorithms1.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(52): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(76): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(97): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(113): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(231): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(238): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(245): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(253): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(260): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(267): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(203): warning C4101: result: неиспользованная локальная переменная
+c:\users\nlitk\source\repos\parallelalgorithms1\parallelalgorithms1\parallelalgorithms1.cpp(202): warning C4101: loop: неиспользованная локальная переменная
+  ParallelAlgorithms1.vcxproj -> C:\Users\nlitk\source\repos\ParallelAlgorithms1\Debug\ParallelAlgorithms1.exe
